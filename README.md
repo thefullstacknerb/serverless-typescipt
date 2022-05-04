@@ -1,6 +1,6 @@
 # TheFullStackNerb - Serverless framework typescript
 This project is used to support the topic here
-https://thefullstacknerb.com/how-to-create-serverless-api-using-serverless-framework--typescript/(opens in a new tab)
+https://thefullstacknerb.com/how-to-create-serverless-api-using-serverless-framework--typescript
 
 ## Installation/deployment instructions
 ### Using NPM
